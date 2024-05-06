@@ -1,2 +1,2 @@
-# ECPPO
-Code for the paper "Episodic Proximal Policy Optimization With Constraints"
+# E-COP
+Code for the paper "Episodic Constrained Optimization with Constraints"
